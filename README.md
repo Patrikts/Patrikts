@@ -18,7 +18,7 @@
 
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:trikteixeira@gmail.com)
-[![Linkedin: patrik-teixeira-saraiva](https://img.shields.io/badge/-Patrik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrik-teixeira)](www.linkedin.com/in/patrik-teixeira)
+[![Linkedin: patrik-teixeira](https://img.shields.io/badge/-Patrik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrik-teixeira/)](www.linkedin.com/in/patrik-teixeira/)
 [![GitHub: Patrikts](https://img.shields.io/github/followers/Patrikts?label=follow&style=social)]([https://github.com/Patrikts](https://github.com/Patrikts/Patrikts))
 
 <div style="display: inline_block" align="center">
