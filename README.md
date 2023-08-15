@@ -57,11 +57,7 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
  </div> -->
-<div>
-<a href="https://github.com/Patrikts">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 <!--<p align="right">  <img src="https://komarev.com/ghpvc/?username=Patrikts&color=green" alt="Profile views" /> </p> -->
 <!-- 
 <a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
@@ -74,15 +70,15 @@
 
 <!-- <a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&count_private=true&hide=&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a> -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinizer4&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patrikts&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-<!-- <a href="http://www.github.com/Patrikts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinizer4&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+<!-- <a href="http://www.github.com/Patrikts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrikts&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
-<!-- <a  href="http://www.github.com/Patrikts"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a  href="http://www.github.com/Patrikts"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=Patrikts&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br>
 
