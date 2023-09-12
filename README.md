@@ -9,9 +9,9 @@
 <p>• Hi, I'm Patrik Teixeira Saraiva 🤙</p>
 <p>• I’m a Software Developer ⚡</p>
 <!-- <p>• My current tools 🔧</p>
-<p>• 🌎 Front-end Web with Angular</p>
-<p>• 📡 Back-end with Java</p>
-<p>• 🛠️ TypeScript | JavaScript | Java | Python</p>
+<p>• 🌎 Front-end Web with Angular | Bootstrap</p>
+<p>• 📡 Back-end with Java | Kotlin | C#</p>
+<p>• 🛠️ TypeScript | JavaScript | Java | Python | Kotlin | C#</p>
 <p>• 🧰 And more..</p> -->
 <p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
 </div>
@@ -29,7 +29,8 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-<img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="    https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </div>
