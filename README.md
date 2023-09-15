@@ -43,6 +43,7 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/sqlserver-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     </div>
     <br>
