@@ -50,7 +50,7 @@
     <div style="display: inline_block" align="center">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="" height="40em" width="40em" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+    <img align="center" alt="" height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
     </div>
     <br>
