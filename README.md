@@ -50,7 +50,6 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
     </div>
     <br>
 <!--     <div style="display: inline_block" align="center">
