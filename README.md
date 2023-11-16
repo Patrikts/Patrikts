@@ -60,7 +60,9 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
  </div> -->
-
+ <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+<br>
 <!--<p align="right">  <img src="https://komarev.com/ghpvc/?username=Patrikts&color=green" alt="Profile views" /> </p> -->
 <!-- 
 <a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
