@@ -74,6 +74,18 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patrikts&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-teixeira/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrikts.eng@gmail.com)
+
+## 📈 Github Stats
+<div align="center">
+  <a href="https://github.com/Patrikts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&theme=blue-green"/>
+</div>
+
 <!-- <a href="http://www.github.com/Patrikts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrikts&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
