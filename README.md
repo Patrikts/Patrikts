@@ -75,10 +75,6 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patrikts&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-teixeira/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrikts.eng@gmail.com)
-
 ## 📈 Github Stats
 <div align="center">
   <a href="https://github.com/Patrikts">
