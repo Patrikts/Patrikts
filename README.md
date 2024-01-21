@@ -64,7 +64,7 @@
 <!-- 
 <a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
 
-<a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&count_private=true&count_public=true&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a>
+<a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&count_private=true&count_public=true&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&bg_color=000000&title_color=FFFC33&text_color=f7df1e&hide_border=true)](https://github.com/vinizer4/github-readme-stats)
 
