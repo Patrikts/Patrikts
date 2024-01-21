@@ -70,6 +70,12 @@
 
 <a href="http://www.github.com/Patrikts"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Patrikts&theme=merko" alt="GitHub Commits Graph" /></a> --> 
 
+<div>
+<a href="https://github.com/Patrikts">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!-- <a href="https://github.com/Patrikts"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrikts&show_icons=true&count_private=true&hide=&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patrikts&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
