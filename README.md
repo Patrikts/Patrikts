@@ -14,6 +14,7 @@
 <p>• 🛠️ TypeScript | JavaScript | Java | Python | Kotlin | C#</p>
 <p>• 🧰 And more..</p> -->
 <p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
+<p>My portfolio 🗂️: https://patrikportfolio.netlify.app/</p>
 </div>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:trikteixeira@gmail.com)
