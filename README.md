@@ -48,6 +48,8 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">          
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
     </div>
     <br>
     <div style="display: inline_block" align="center">
@@ -62,9 +64,13 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
  </div> -->
 <br>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=Patrikts&color=green" alt="Profile views" /> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrikts&theme=github_dark&show_icons=true)
 
+
+<a href="http://www.github.com/Patrikts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrikts&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br>
 
 <img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
