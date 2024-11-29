@@ -61,7 +61,9 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
  </div> -->
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikts&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrikts&theme=github_dark&show_icons=true)
 
 <br>
 
