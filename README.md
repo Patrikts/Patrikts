@@ -1,6 +1,6 @@
 <!-- <div align="center" padding="5em"> 
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFC33&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Patrik+Teixeira+Saraiva;I'm++Software+Developer;I+from+Brasil,+GO;Software Engineering+Student+at+Uninter;Be+Welcome!+:%29">
-</div> -->
+</div> --> .
 
 <div align="left" >
 <!--     <img align="right" style="width:25vh; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/> -->
