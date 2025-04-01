@@ -1,5 +1,5 @@
 <div align="center" padding="5em"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFC33&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Patrik+Teixeira+Saraiva;I'm+a+Software+Developer;I'm+from+Brazil,+GO;Software+Engineering+Student+at+Uninter;Welcome!+%F0%9F%98%8A">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Patrik+Teixeira+Saraiva;I'm+a+Software+Developer;I'm+from+Brazil,+GO;Software+Engineering+Student+at+Uninter;Welcome!+%F0%9F%98%8A">
 </div>
 
 <div align="left">
