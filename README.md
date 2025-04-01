@@ -18,6 +18,21 @@
   <a href="https://github.com/Patrikts"><img src="https://img.shields.io/github/followers/Patrikts?label=follow&style=social" /></a>
 </p>
 
+---
+
+### 📌 Featured Projects
+
+- 📦 [Inventory Management System (Spring Boot)](https://github.com/Patrikts/sistema-de-estoque-uninter-spring-boot)  
+  Full-stack system for managing product stock, suppliers, and categories using Spring Boot.
+
+- 📅 [Agenda App (Angular + Spring Boot)](https://github.com/Patrikts/Aplica-ao-Agenda-Angular-SpringBoot)  
+  Appointment management app with Angular frontend and Spring Boot backend.
+
+- 🔄 [Orchestrated SAGA Pattern - Microservices](https://github.com/Patrikts/saga-orquestrado)  
+  Microservices architecture using the orchestrated SAGA pattern with Java Spring.
+
+---
+
 <div align="center">
   <strong>🔧 Tool Kit ⚙️</strong><br><br>
 
@@ -61,4 +76,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrikts&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
+<img align="left" style="width:100vh; height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
