@@ -61,4 +61,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrikts&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<img align="left" style="width:50vh; height:50vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
+<img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
