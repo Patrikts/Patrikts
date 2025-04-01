@@ -33,14 +33,14 @@
 
 ### 📌 Featured Projects
 
-- 🏥 [ANS Financial Statement Analysis](https://github.com/Patrikts/...)  
-  Extraction and analysis of data from Brazil's National Supplementary Health Agency.
+- 📦 [Inventory Management System (Spring Boot)](https://github.com/Patrikts/sistema-de-estoque-uninter-spring-boot)  
+  A full-stack system for managing product stock, suppliers, and categories, using Spring Boot.
 
-- ⚙️ [API with FastAPI + PostgreSQL](https://github.com/Patrikts/...)  
-  Well-structured backend for ingesting and querying health-related datasets.
+- 📅 [Agenda App (Angular + Spring Boot)](https://github.com/Patrikts/Aplica-ao-Agenda-Angular-SpringBoot)  
+  An appointment management app built with Angular frontend and Spring Boot backend.
 
-- 📊 [React + Chart.js Dashboard](https://github.com/Patrikts/...)  
-  Interactive dashboard to visualize statistical data.
+- 🔄 [Orchestrated SAGA Pattern - Microservices](https://github.com/Patrikts/saga-orquestrado)  
+  A microservices architecture project demonstrating the orchestrated SAGA pattern in Java with Spring.
 
 ---
 
